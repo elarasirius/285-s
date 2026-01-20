@@ -1,0 +1,10 @@
+# game secret number
+
+secret_number = 285
+tebakan = int(input("Tebak angka fav ak")
+
+while secret_number != tebakan:
+    print("o ckp tw, km g kenal aku berarti")
+    print("kamu akan kena loop selamanya, coba tebak lagi saja")
+    tebakan = int(input("Tebak angka fav ak"))
+print("Mksi bub, ily")
